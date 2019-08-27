@@ -1,0 +1,40 @@
+body	{
+    background: rgb(206, 24, 223);
+    font-family: Arial;
+    font-size: 1.5em;
+}
+#form{
+    margin-top: 40px;
+    text-align: center;
+}
+span{
+    display: block;
+    margin-bottom: 10px;
+}
+p{
+    font-style: oblique;
+}
+input{
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+    font-size: 1.7em;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 15px 20px 15px 20px;
+    font-size: 1.5em;
+    border-style: none;
+    background: rgb(218, 231, 36);
+    color: black;
+    cursor: pointer;
+}
+#resultado{
+    margin: 20px;
+    text-align: center;
+    background-color: bisque;
+    width: 130px;
+    height: 70px;
+    margin-left: 590px;
+}
